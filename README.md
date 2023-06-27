@@ -34,10 +34,9 @@ This project was developed using the following tools:
 
 1. Clone this repository to your local machine.
 2. Install the required tools and libraries. You can install them using pip:
-'''
+```
 pip install pandas numpy matplotlib seaborn scikit-learn
-'''
-
+```
 3. Open the .ipynb file in Jupyter Notebook or any other Python notebook platform.
 4. Run the cells in the notebook to load the data, perform the analysis, build the models, and evaluate the models.
 
